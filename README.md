@@ -20,13 +20,13 @@ npm install
 ### Watch For Changes & Automatically Refresh Across Devices
 
 ```sh
-$ gulp serve
+gulp serve
 ```
 
 ### Build & Optimize
 
 ```sh
-$ gulp
+gulp
 ```
 
 ### Clean temp files before build
